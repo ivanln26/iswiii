@@ -1,0 +1,23 @@
+version: "3.9"
+
+services:
+
+  app:
+    image: alexisfr/flask-app:latest
+    container_name: web
+    depends_on:
+      - db
+    environment:
+      - REDIS_HOST=db
+      - REDIS_PORT=6379
+    ports:
+      - "5000:5000"
+
+  db:
+    image: redis:7.0.4-alpine
+    container_name: db
+    volumes:
+      - redis_data:/data
+
+volumes:
+  redis_data:
