@@ -11,3 +11,4 @@ Docente: Fernando Bono
 - [TP03: Arquitectura de Sistemas Distribuidos](tps/03.md)
 - [TP04: Arquitectura de Microservicios](tps/04.md)
 - [TP05: Herramientas de Construcción de Software](tps/05.md)
+- [TP06: Construcción de Imágenes de Docker](tps/06.md)
