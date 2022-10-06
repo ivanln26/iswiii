@@ -13,3 +13,4 @@ Docente: Fernando Bono
 - [TP05: Herramientas de Construcción de Software](tps/05.md)
 - [TP06: Construcción de Imágenes de Docker](tps/06.md)
 - [TP07: Servidor de Build (de integración continua)](tps/07.md)
+- [TP08: Herramientas de Construcción de Software en la Nube](tps/08.md)
