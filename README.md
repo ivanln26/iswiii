@@ -15,3 +15,4 @@ Docente: Fernando Bono
 - [TP07: Servidor de Build (de integración continua)](tps/07.md)
 - [TP08: Herramientas de Construcción de Software en la Nube](tps/08.md)
 - [TP09: Pruebas de Unidad](tps/09.md)
+- [TP10: Pruebas de Integración](tps/10.md)
